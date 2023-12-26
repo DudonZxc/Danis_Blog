@@ -12,7 +12,7 @@ python -m pip install Pillow
 pip install pytz
 pip install Django
 
-Еще есть виртуальное окурежеине ENV - venv\Scripts\activate
+
 
 Package  Version
 -------- ------------
